@@ -1,6 +1,6 @@
 name 'jenkins'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Eric Bordeleau'
+maintainer_email 'ebordeleau@myfastmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures jenkins'
 long_description 'Installs/Configures jenkins'

@@ -6,4 +6,4 @@
 # Copyright (c) 2017 The Authors, All Rights Reserved.
 #
 
-default[:jenkins][:binaries]= "deb https://pkg.jenkins.io/debian-stable binary/"
+default[:jenkins][:binaries_depot]= "deb https://pkg.jenkins.io/debian-stable binary/"

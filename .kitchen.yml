@@ -1,6 +1,8 @@
 ---
 driver:
   name: vagrant
+  synced_folders: 
+    - ["./", "/vagrant"]
 
 provisioner:
   name: chef_zero
@@ -32,3 +34,4 @@ suites:
       inspec_tests:
         - test/smoke/default
     attributes:
+      
